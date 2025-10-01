@@ -1,0 +1,17 @@
+# Windows system files
+$RECYCLE.BIN/
+System Volume Information/
+pagefile.sys
+*.log
+*.tmp
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code / IDE settings (if any)
+.vscode/
+.idea/
+
+# Other project-specific ignores
+DumpStack.log.tmp
